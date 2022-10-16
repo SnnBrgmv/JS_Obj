@@ -1,0 +1,9 @@
+.actor-info{
+    background-color: red !important;
+    height: 100% !important;
+    z-index: 9;
+    display: none;
+}
+#box:hover .actor-info{
+    display: block;
+}
